@@ -1,3 +1,4 @@
+
 ##TextViewSpannerDemo##
 	
 you can custome a label to insert the text of the textview..
@@ -24,5 +25,3 @@ you can download this project here [github地址](https://github.com/HashWaney/T
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
-
-
