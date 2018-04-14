@@ -1,2 +1,2 @@
-# PersonWork
-textview spanner 标签使用
+#Custome TextView Spanner 
+	you can custome a label to insert the text of the textview..
