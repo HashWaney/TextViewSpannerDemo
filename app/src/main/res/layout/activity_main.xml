@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:gravity="center"
     android:layout_height="match_parent"
     android:layout_gravity="center"
     tools:context="com.hash.textviewspanner.MainActivity">
 
-    <TextView
+
+    <Button
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/tvSpanner"
-        android:textSize="16sp"
-        android:layout_gravity="center"
-    />
+        android:text="Kotlin"
+        android:textAllCaps="false"
+        android:id="@+id/ktJump"
+        android:background="@color/colorAccent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:text="Java"
+        android:id="@+id/javaJump"
+        android:textAllCaps="false"
+        android:background="@color/colorPrimary"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>

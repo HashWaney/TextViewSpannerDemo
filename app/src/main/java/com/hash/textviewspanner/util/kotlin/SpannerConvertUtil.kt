@@ -1,4 +1,4 @@
-package com.hash.textviewspanner.util
+package com.hash.textviewspanner.util.kotlin
 
 import android.content.Context
 import android.text.SpannableString

@@ -3,19 +3,16 @@ package com.hash.textviewspanner.util.spanner
 import android.content.Context
 import android.graphics.Color
 import android.graphics.drawable.BitmapDrawable
-import android.nfc.Tag
 import android.text.Spannable
 import android.text.style.ImageSpan
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.TextView
-import android.widget.Toast
 
 import com.hash.textviewspanner.R
-import com.hash.textviewspanner.util.AwesomeTextHandler
-import com.hash.textviewspanner.util.BitmapUtils
-import com.hash.textviewspanner.util.PixUtil
+import com.hash.textviewspanner.util.kotlin.AwesomeTextHandler
+import com.hash.textviewspanner.util.kotlin.BitmapUtils
+import com.hash.textviewspanner.util.kotlin.PixUtil
 
 /**
  * Created by HashWaney on 2018/4/14.
